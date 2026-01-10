@@ -57,3 +57,7 @@ nav ul li a {
 section {
     margin-bottom: 40px;
 }
+p {
+    line-height: 1.8; /* Sets spacing to 1.8 times the font size */
+    margin-bottom: 20px; /* Optional: Adds extra space between paragraphs */
+}
