@@ -78,3 +78,13 @@ figcaption {
     color: #666;
     text-align: center;
 }
+.image-gallery img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.blog img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
